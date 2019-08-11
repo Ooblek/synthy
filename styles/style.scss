@@ -505,6 +505,13 @@ left: 48%;
     .spaced2{font-size: 00.7rem;}
     .r-header{font-size: 2rem;}
 }
+@media (min-width: 301px) {
+    .spaced{font-size: 00.9rem;}
+    .spaced2{font-size: 00.7rem;}
+    .r-header{font-size: 2rem;}
+}
+
+
 
 @media (min-width: 600px) {
     .spaced{font-size: 00.9rem;}
